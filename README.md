@@ -75,6 +75,8 @@ Best regards,
 - Implement slicers for salesperson, product, and customer filtering.
 - Add KPIs for actual vs. budget analysis.
 
+![Main Dashboard](./images/main-dashboard.png "Main Dashboard")
+
 ## Files in the Repository
 **SQL Scripts:** For extracting and cleaning data from AdventureWorks.
 **Budget Data:** Excel file with 2021 budget figures.
