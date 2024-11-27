@@ -78,14 +78,22 @@ Best regards,
 ![Main Dashboard](./images/main-dashboard.png "Main Dashboard")
 
 ## Files in the Repository
+
 **SQL Scripts:** For extracting and cleaning data from AdventureWorks.
+
 **Budget Data:** Excel file with 2021 budget figures.
+
 **Power BI File:** .pbix file containing the dashboard.
+
 **Documentation:** Additional files with detailed explanations of the process.
 
+
 ## Tools and Technologies
+
 **Database:** AdventureWorks 2019 Data Warehouse.
+
 **Visualization:** Power BI.
+
 **Budget File:** Excel.
 
 ## Contact 
